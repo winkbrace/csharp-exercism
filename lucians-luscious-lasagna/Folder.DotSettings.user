@@ -1,0 +1,23 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=43212a9e_002D6ae0_002D4818_002Da3ac_002D732bfba2d691/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from Solution #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Solution /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=609e0109_002Df3f9_002D414d_002D9980_002D2d64d4b76f24/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;And&gt;
+      &lt;TestAncestor&gt;
+        &lt;TestId&gt;xUnit::B68FBB59-41C1-EDD6-A2DC-7D8DAB1833C0::net6.0::LuciansLusciousLasagnaTests.Elapsed_time_in_minutes_for_multiple_layers&lt;/TestId&gt;
+      &lt;/TestAncestor&gt;
+      &lt;Project Location="/home/bas/repos/csharp/lucians-luscious-lasagna" Presentation="&amp;lt;LuciansLusciousLasagna&amp;gt;" /&gt;
+    &lt;/And&gt;
+    &lt;And&gt;
+      &lt;TestAncestor&gt;
+        &lt;TestId&gt;xUnit::B68FBB59-41C1-EDD6-A2DC-7D8DAB1833C0::net6.0::LuciansLusciousLasagnaTests.Elapsed_time_in_minutes_for_one_layer&lt;/TestId&gt;
+      &lt;/TestAncestor&gt;
+      &lt;Project Location="/home/bas/repos/csharp/lucians-luscious-lasagna" Presentation="&amp;lt;LuciansLusciousLasagna&amp;gt;" /&gt;
+    &lt;/And&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b87be303_002Daff9_002D4327_002D8e4b_002Dfa154d6e9677/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Solution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Solution /&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
